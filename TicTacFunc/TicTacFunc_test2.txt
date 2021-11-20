@@ -1,0 +1,6 @@
+02:00 55 02:55
+Ответ:
+equal: 0
+after: 02:55
+forward: 04:55
+backward: 11:05

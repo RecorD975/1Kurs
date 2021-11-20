@@ -1,0 +1,6 @@
+9:22 240 6:00
+Ответ:
+equal: 0
+after: 01:22
+forward: 03:22
+backward: 03:22

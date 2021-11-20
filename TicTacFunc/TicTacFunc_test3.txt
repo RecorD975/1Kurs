@@ -1,0 +1,6 @@
+11:50 43 0:17
+Ответ:
+equal: 0
+after: 00:33
+forward: 00:07
+backward: 11:33
